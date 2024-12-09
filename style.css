@@ -1,0 +1,33 @@
+body {
+    background-image: url(./Space.jpg);
+    display: flex;
+    justify-content: first baseline;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+}
+
+* {
+    font-family: "Rajdhani", sans-serif;
+   }
+  h1 {
+        color: #4475f2;
+   }
+   p {
+        color: #8269e6
+   }
+   table {
+        color: #8269e6;
+   }
+   th{
+     font-family: "Rajdhani", serif;
+     font-weight: 700;
+     font-style: normal;
+   }
+   td{
+     font-family: "Rajdhani", serif;
+     font-weight: 700;
+     font-style: normal;
+   }
+   
